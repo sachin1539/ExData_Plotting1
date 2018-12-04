@@ -1,0 +1,8 @@
+> setwd("C:\\SachinAwasthi\\EY\\personal\\Datascience\\Exploratory Data Analysis\\Week1")
+> source("Plot1.R")
+> setwd("C:\\SachinAwasthi\\EY\\personal\\Datascience\\Exploratory Data Analysis\\Week1")
+> source("Plot2.R")
+> setwd("C:\\SachinAwasthi\\EY\\personal\\Datascience\\Exploratory Data Analysis\\Week1")
+> source("Plot3.R")
+> setwd("C:\\SachinAwasthi\\EY\\personal\\Datascience\\Exploratory Data Analysis\\Week1")
+> source("Plot4.R")
